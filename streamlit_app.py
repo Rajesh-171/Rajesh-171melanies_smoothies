@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("My Parents New Healthy Dinner")
+st.title(":cup_with_straw: Customize Your Smoothie! :cup_with_straw:")
 st.write(
-    "Breakfast Menu"
-)
+    """Choose the fruits you want in your custom Smoothie!
+    """)
